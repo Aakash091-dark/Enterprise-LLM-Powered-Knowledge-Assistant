@@ -1,0 +1,20 @@
+# LLM & RAG
+transformers
+torch
+sentence-transformers
+faiss-cpu
+accelerate
+peft
+huggingface-hub
+langchain
+
+# Backend
+fastapi
+uvicorn
+
+# Frontend
+streamlit  # or gradio
+
+# Utilities
+python-dotenv
+PyMuPDF  # for PDF extraction
