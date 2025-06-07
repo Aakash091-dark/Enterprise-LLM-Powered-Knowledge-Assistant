@@ -7,7 +7,8 @@
 
 ## 📸 Demo UI
 
-Screenshot 2025-06-07 084425.png
+![Alt text for image]([Screenshot 2025-06-07 084425.png](https://github.com/Aakash091-dark/Enterprise-LLM-Powered-Knowledge-Assistant/blob/main/Screenshot%202025-06-07%20084425.png))
+
 
 
 ---
