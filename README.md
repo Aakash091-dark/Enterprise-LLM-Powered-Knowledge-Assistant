@@ -5,14 +5,6 @@
 
 ---
 
-## 📸 Demo UI
-
-![Alt text for image]([Screenshot 2025-06-07 084425.png](https://github.com/Aakash091-dark/Enterprise-LLM-Powered-Knowledge-Assistant/blob/main/Screenshot%202025-06-07%20084425.png))
-
-
-
----
-
 ## 📌 Problem Statement
 
 Modern enterprises have huge amounts of unstructured data — PDFs, manuals, policy documents — and employees often waste hours trying to find specific information. Traditional search fails to capture **context** or **semantics**.
@@ -118,6 +110,44 @@ llm = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-small")
 from sentence_transformers import SentenceTransformer
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 ```
+
+## Deployment on Streamlit
+
+This project can be easily deployed on [Streamlit](https://streamlit.io/), allowing you to share the app online with minimal setup.
+
+### Steps to Deploy on Streamlit
+
+1. **Install Streamlit CLI (if not already installed):**
+
+   ```bash
+   pip install streamlit
+Prepare your app script:
+
+Ensure your frontend or main app script (e.g., app.py) is compatible with Streamlit or you have a Streamlit wrapper.
+
+Run locally to test:
+
+bash
+Copy
+Edit
+streamlit run app.py
+Push your code to a public GitHub repository.
+
+Deploy on Streamlit Cloud:
+
+Go to Streamlit Cloud
+
+Sign in with your GitHub account.
+
+Click New app, select your repo and branch.
+
+Set the main file path (e.g., app.py).
+
+Click Deploy.
+
+Access your app online:
+
+Streamlit will provide a live URL you can share with others.
 
 
 ## 🚧 Challenges Faced
