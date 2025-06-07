@@ -7,8 +7,8 @@
 
 ## 📸 Demo UI
 
-![Chat UI Screenshot](./screenshots/chat-ui.png)
-*Upload your own image inside a `/screenshots/` folder.*
+Screenshot 2025-06-07 084425.png
+
 
 ---
 
