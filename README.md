@@ -354,8 +354,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Aakash Sehrawat**
 
 - 📧 **Email**: [kingdarksoul091@gmail.com](mailto:kingdarksoul091@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/aakashsehrawat](https://linkedin.com/in/aakashsehrawat)
-- 🐙 **GitHub**: [@aakashsehrawat](https://github.com/aakashsehrawat)
+- 💼 **LinkedIn**: [linkedin.com/in/aakashsehrawat](https://www.linkedin.com/in/akashhrsehrawat/)
+- 🐙 **GitHub**: [@aakashsehrawat](https://github.com/Aakash091-dark)
 
 ---
 
