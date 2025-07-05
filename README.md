@@ -87,7 +87,7 @@ Our intelligent assistant combines the power of Large Language Models with advan
 | **Backend** | FastAPI, Python | High-performance API server |
 | **ML/AI** | LangChain, Transformers | LLM integration and processing |
 | **Vector DB** | FAISS | Efficient similarity search |
-| **Models** | FLAN-T5, SentenceTransformers | Language understanding & embeddings |
+| **Models** | LAAMA, SentenceTransformers | Language understanding & embeddings |
 | **Deployment** | Docker, Docker Compose | Containerized deployment |
 
 ---
